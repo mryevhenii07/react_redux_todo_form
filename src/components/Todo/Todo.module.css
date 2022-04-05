@@ -1,0 +1,13 @@
+.icons {
+  display: flex;
+  align-items: center;
+  font-size: 24px;
+  cursor: pointer;
+}
+.deleteIcon {
+  margin-right: 5px;
+  color: #fff;
+}
+.editIcon {
+  color: #fff;
+}
