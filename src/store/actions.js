@@ -1,3 +1,5 @@
+// import { createAction } from "@reduxjs/toolkit";
+
 export const ADD = "ADD";
 export const REMOVE = "REMOVE";
 
@@ -10,3 +12,6 @@ export const removeAction = (action) => ({
   type: REMOVE,
   payload: action,
 });
+
+// export const addAction = createAction("ADD");
+// export const removeAction = createAction("REMOVE");

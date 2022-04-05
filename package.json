@@ -4,6 +4,7 @@
   "private": true,
   "homepage": "https://mryevhenii07.github.io/react_redux_todo_form",
   "dependencies": {
+    "@reduxjs/toolkit": "^1.8.1",
     "@testing-library/jest-dom": "^5.16.2",
     "@testing-library/react": "^12.1.2",
     "@testing-library/user-event": "^13.5.0",

@@ -16,7 +16,7 @@ body {
   justify-content: center;
   width: 520px;
   min-height: 600px;
-  background: #161a2b;
+  background: repeating-linear-gradient(26deg, black, transparent 210px);
   text-align: center;
   padding-bottom: 30px;
   border-radius: 10px;
