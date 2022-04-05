@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react_redux_todo_form/static/css/main.309c22db.css",
+    "main.js": "/react_redux_todo_form/static/js/main.54c3570f.js",
+    "index.html": "/react_redux_todo_form/index.html",
+    "main.309c22db.css.map": "/react_redux_todo_form/static/css/main.309c22db.css.map",
+    "main.54c3570f.js.map": "/react_redux_todo_form/static/js/main.54c3570f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.309c22db.css",
+    "static/js/main.54c3570f.js"
+  ]
+}
